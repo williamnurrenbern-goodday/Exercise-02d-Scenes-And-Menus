@@ -12,8 +12,14 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
++2 for Homemade assets: Includes enemy bullets, character bullets, character ship, big and small asteroids, and enemy ship. 
++1 for adding the explosion sound effect. On awake, an explosion sound can be heard once an explosion happens. 
++1 Background Music: I added a phonk-style music to play in the background of the actual game, not the start and end scenes. 
++1 for Background Image: Used an image from the website listed in references as the background to the main game in the “SampleScene” . 
+
+
 ## References
-None
+https://mrwallpaper.com/wallpapers/step-into-a-realm-of-infinite-possibilities-with-black-space-7kzhjs4o5spwgwtq.html
 
 ## Future Development
 None
